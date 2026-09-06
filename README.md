@@ -80,4 +80,4 @@ Checkpoints and generated samples are saved under `experiments/`. Use [visualize
 
 Please cite our paper when using Channel-Diff:
 
-> Xiaoqian Qi, Haoye Chai, Yue Wang, Zhaocheng Wang, and Yong Li. “Physics-guided Diffusion Models for Multi-scale Prediction of Reference Signal Received Power in Wireless Networks.” *IEEE Transactions on Mobile Computing*.
+> X. Qi, H. Chai, Y. Wang, Z. Wang and Y. Li, "Physics-guided Diffusion Models for Multi-scale Prediction of Reference Signal Received Power in Wireless Networks," in *IEEE Transactions on Mobile Computing*, doi: 10.1109/TMC.2026.3731295.
