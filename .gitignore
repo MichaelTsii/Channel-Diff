@@ -1,0 +1,27 @@
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local environments and editor settings
+.venv/
+venv/
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+
+# Local datasets, pretrained weights, and generated experiment outputs
+datasets/
+experiments/
+vit_model/
+*.npz
+*.npy
+*.pkl
+*.pk
+*.pt
+*.pth
+*.safetensors
+events.out.tfevents.*
